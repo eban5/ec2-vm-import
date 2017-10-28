@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "Ubuntu 16.04 LTS - Blue C4 TITAN OVA",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "blue-c4-titan",
+        "S3Key": "blue-c4-titan.ova"
+    }
+}]
